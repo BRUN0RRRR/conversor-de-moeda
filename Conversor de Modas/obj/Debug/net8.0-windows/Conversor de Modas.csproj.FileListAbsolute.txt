@@ -1,0 +1,16 @@
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\bin\Debug\net8.0-windows\Conversor de Modas.exe
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\bin\Debug\net8.0-windows\Conversor de Modas.deps.json
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\bin\Debug\net8.0-windows\Conversor de Modas.runtimeconfig.json
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\bin\Debug\net8.0-windows\Conversor de Modas.dll
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\bin\Debug\net8.0-windows\Conversor de Modas.pdb
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\obj\Debug\net8.0-windows\Conversor_de_Modas.Form1.resources
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\obj\Debug\net8.0-windows\Conversor de Modas.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\obj\Debug\net8.0-windows\Conversor de Modas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\obj\Debug\net8.0-windows\Conversor de Modas.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\obj\Debug\net8.0-windows\Conversor de Modas.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\obj\Debug\net8.0-windows\Conversor de Modas.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\obj\Debug\net8.0-windows\Conversor de Modas.dll
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\obj\Debug\net8.0-windows\refint\Conversor de Modas.dll
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\obj\Debug\net8.0-windows\Conversor de Modas.pdb
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\obj\Debug\net8.0-windows\Conversor de Modas.genruntimeconfig.cache
+C:\Users\bruno\source\repos\Conversor de Modas\Conversor de Modas\obj\Debug\net8.0-windows\ref\Conversor de Modas.dll
